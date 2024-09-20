@@ -90,7 +90,7 @@ export const navItems = [
       id: 3,
       title: "Utube",
       des: "Its a clone of Youtube frontend using html,css and js",
-      img: "/p3.svg",
+      img: "/yt.svg",
       iconLists: ["/html.svg", "/css.svg", "/js.svg"],
       link: "https://github.com/Priyansu07011999/youtube-clone",
     },
@@ -98,9 +98,17 @@ export const navItems = [
       id: 4,
       title: "My portfolio",
       des: "Using Next.js",
-      img: "/p4.svg",
+      img: "/portfolio.svg",
       iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg"],
       link: "https://github.com/Priyansu07011999/portflio",
+    },
+    {
+      id: 4,
+      title: "Youtube 2.O",
+      des: "Using React.js, Rapid Api and material ui",
+      img: "/youtube.svg",
+      iconLists: ["/re.svg"],
+      link: "https://helpful-pavlova-adf71f.netlify.app",
     },
   ];
   
